@@ -1,1 +1,1 @@
-# Tripify--React-Web-design
+# Tripify-React-Web-design
