@@ -1,0 +1,22 @@
+.top {
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+    bottom: 1rem;
+    right: 2rem;
+    border-radius: 2rem;
+    background-color: #1900ff39;
+    padding: 1rem;
+}
+
+.yes {
+    display: block;
+}
+
+.no {
+    display: none;
+}
+
+.img {
+    height: 1.5rem;
+}
